@@ -12,5 +12,3 @@ int main(void)
 	puts(test_str);
 	return (0);
 }
-Footer
-© 2022 GitHub, 
